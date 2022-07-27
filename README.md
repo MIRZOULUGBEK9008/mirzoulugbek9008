@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirzo Ulugbek</h1>
 <h3 align="center">A learner frontend skills from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Easybank](https://easybank-selfmade.netlify.app/)
+- 🔭 I’m currently working on [Mirzo Ulug'bek | Portfolio](https://portfolio-selfmade.netlify.app/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
