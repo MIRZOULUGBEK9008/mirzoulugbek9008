@@ -34,12 +34,3 @@ MayoqHub 2.0 o'quvchisi, kompyuter ustasi...
 <p align="left">
 <a href="https://instagram.com/ulugbekkhudoyberdiyev9008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulugbekkhudoyberdiyev9008" height="30" width="40" /></a>
 </p>
-
-
-## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzoulugbek9008&show_icons=true&locale=en&layout=compact" alt="mirzoulugbek9008" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzoulugbek9008&show_icons=true&locale=en" alt="mirzoulugbek9008" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzoulugbek9008&" alt="mirzoulugbek9008" /></p>
-
