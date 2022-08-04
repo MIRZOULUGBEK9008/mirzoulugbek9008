@@ -2,7 +2,7 @@
 
 MayoqHub 2.0 o'quvchisi, kompyuter ustasi...
 
-[💼 Portfolio](https://portfolio-selfmade.netlify.app/) | [💬 Telegram](https://t.me/ulugbekkhudoyberdiyev9008) | 📧 ulugbekkhudoyberdiyev9008@gmail.com
+[💼 Portfolio](https://portfolio-selfmade.netlify.app/) | [💬 Telegram](https://t.me/ulugbekkhudoyberdiyev9008) | 📧 ulugbekhudoyberdiyev9008@gmail.com
 
 
 ## Texnologiyalar
